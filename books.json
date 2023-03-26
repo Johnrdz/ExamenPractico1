@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "641f8cadf7835208b5537b8f"
+  },
+  "Titulo": "Odisea",
+  "Autor": "Homero",
+  "Idioma": "Spanish",
+  "Genero": "Griego",
+  "Editorial": "La Ceiba",
+  "Fecha": "20-07-2015",
+  "Pais": "El Salvador"
+},{
+  "_id": {
+    "$oid": "641f8cd6f7835208b5537b90"
+  },
+  "Titulo": "La Iliada",
+  "Autor": "Homero",
+  "Idioma": "Spanish",
+  "Genero": "Griego",
+  "Editorial": "La Ceiba",
+  "Fecha": "02-09-2016",
+  "Pais": "El Salvador"
+},{
+  "_id": {
+    "$oid": "641f8f0af7835208b5537b91"
+  },
+  "Titulo": "Cuentos De Barro",
+  "Autor": "Salarrue",
+  "Idioma": "Spanish",
+  "Genero": "Cuentos",
+  "Editorial": "Colleccion",
+  "Fecha": "01-01-1993",
+  "Pais": "El Salvador"
+},{
+  "_id": {
+    "$oid": "641f8f61f7835208b5537b92"
+  },
+  "Titulo": "Cuentos De Cipotes",
+  "Autor": "Salarrue",
+  "Idioma": "Spanish",
+  "Genero": "Cuentos",
+  "Editorial": "Collecion",
+  "Fecha": "02-01-1961",
+  "Pais": "El Salvador"
+},{
+  "_id": {
+    "$oid": "641fa93fd270322db1b43203"
+  },
+  "Titulo": "Ciudad bajo mi voz",
+  "Autor": "Claudia Lars",
+  "Idioma": "Spanish",
+  "Genero": "Poesia",
+  "Editorial": "Lars",
+  "Fecha": "05-05-1946",
+  "Pais": "El Salvador"
+},{
+  "_id": {
+    "$oid": "641fb15490a0be45ebc0e8d3"
+  },
+  "Titulo": "Girasol",
+  "Autor": "Claudia Lars",
+  "Idioma": "Spanish",
+  "Genero": "Poesia",
+  "Editorial": "Lars",
+  "Fecha": "02-02-1962",
+  "Pais": "El Salvador"
+},{
+  "_id": {
+    "$oid": "641fb21290a0be45ebc0e8d4"
+  },
+  "Titulo": "Una vida en el cine",
+  "Autor": "Alberto Masferrer",
+  "Idioma": "Spanish",
+  "Genero": "Obra litearia",
+  "Editorial": "Masferrer",
+  "Fecha": "09-09-1922",
+  "Pais": "El Salvador"
+},{
+  "_id": {
+    "$oid": "641fb29790a0be45ebc0e8d5"
+  },
+  "Titulo": "El dinero maldito",
+  "Autor": "Alberto Masferrer",
+  "Idioma": "Spanish",
+  "Genero": "Obra literaria",
+  "Editorial": "Masferrer",
+  "Fecha": "07-07-1927",
+  "Pais": "El Salvador"
+},{
+  "_id": {
+    "$oid": "641fb2fa90a0be45ebc0e8d6"
+  },
+  "Titulo": "To Kill a Mokingbird",
+  "Autor": "Harper Lee",
+  "Idioma": "English",
+  "Genero": "Novela",
+  "Editorial": "J. B. Lippincott & Co",
+  "Fecha": "11-07-1960",
+  "Pais": "USA"
+}]
